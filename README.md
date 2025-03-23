@@ -2,7 +2,7 @@
 
 A **fully responsive** music player web app built using **HTML, CSS, and JavaScript**, featuring dynamic album loading and essential playback controls.
 
-![Spotify Clone Preview](image)
+![Spotify Clone Preview](images/forGithubDemo1.png)
 
 ---
 
@@ -22,9 +22,9 @@ A **fully responsive** music player web app built using **HTML, CSS, and JavaScr
 ---
 
 ## 📸 Screenshots  
-![Home Page](image)  
-![Music Player](image)  
-![Responsive View](image)  
+![Home Page](images/forGithubDemo1.png)  
+![Music Player](images/forGithubDemo2.png)  
+![Responsive View](images/forGithubDemo3Mobile.png)  
 
 ---
 
