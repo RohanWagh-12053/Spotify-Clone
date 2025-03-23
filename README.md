@@ -21,12 +21,20 @@ A **fully responsive** music player web app built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📸 Screenshots  
-![Home Page](images/forGithubDemo1.png)  
-![Music Player](images/forGithubDemo2.png)  
-![Responsive View](images/forGithubDemo3Mobile.png)  
+## 🎥 Live Demo  
 
----
+### 1️⃣ Responsiveness  
+![Responsive View](gifs/responsiveCheck.gif)  
+
+### 2️⃣ Next & Previous Buttons  
+![Next & Previous](gifs/nextPreviousCheck.gif)  
+
+### 3️⃣ Play, Pause & Volume Controls  
+![Play & Volume](gifs/playPauseVolume.gif)  
+
+### 4️⃣ Hamburger Menu & Seek Functionality  
+![Hamburger & Seek](gifs/seekHamburger.gif)  
+
 
 ## 📦 Installation & Setup  
 1. **Clone the repository**  
@@ -41,9 +49,6 @@ A **fully responsive** music player web app built using **HTML, CSS, and JavaScr
    ```
 3. Open **index.html** in a browser.
 
-## 📽️ Demo
-
-   🔗 Live Demo (Upload a live version on GitHub Pages or Vercel and replace "image" with the link.)
 
 ## 💡 Future Improvements
 
