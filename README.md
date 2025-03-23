@@ -36,7 +36,7 @@ A **fully responsive** music player web app built using **HTML, CSS, and JavaScr
 ![Hamburger & Seek](gifs/seekHamburger.gif)  
 
 
-## 🌍 Hosted App  
+# 🌍 Hosted App  
 🔗 **Live App:** [Click Here to Open](https://67e01d08b62b6de1a1209b44--polite-yeot-4e33a5.netlify.app/) 
 
 ## 📦 Installation & Setup  
